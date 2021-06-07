@@ -17,15 +17,15 @@ More about the QGMLWY layout and the Carpalx model can be found at http://mkweb.
 
 ### QGMLWY English Layout
 
-The QGMLWY English Keyboard Layout is based on the ISO 105 English Keyboard Layout
-
 ![QGMLWY ENG](https://user-images.githubusercontent.com/7512698/121083275-9ce20c00-c7b5-11eb-9cc1-6b4581dc5e6e.png)
+The QGMLWY from Carpalx is based on the ISO 105 English Keyboard Layout.
+![QWERTY ENG 105](https://user-images.githubusercontent.com/7512698/121093148-00bf0180-c7c3-11eb-91ec-0a029b1db46b.png)
 
 ### QWERTY Latin Amrican
 
-This is the ISO 105 Latin American Spanish Keyboard Layout
-
 ![QWERTY LATAM 105](https://user-images.githubusercontent.com/7512698/121083500-e4689800-c7b5-11eb-8d82-ca6f851fbaa4.png)
+
+----The ISO 105 Latin American Spanish Keyboard Layout has been adapted using the QGMLWY from Carpalx. Comparing both the Ñ key is the ;-----
 
 ## Building
 
