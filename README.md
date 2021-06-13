@@ -1,10 +1,10 @@
 # QGMLWY - Spanish (LATAM)
 
-This is a Carpalx's fully optimized QGMLWY keyboard layout (with fixed ZXCV), addapted for the ISO 105 Latin American layout.
+Carpalx's fully optimized QGMLWY keyboard layout (with fixed ZXCV), addapted for the ISO 105 Latin American layout.
 
 ![QGMLWY LATAM 105](https://user-images.githubusercontent.com/7512698/121077926-a4ea7d80-c7ae-11eb-9e74-489e63c6b84e.png)
 
-More about the QGMLWY layout and the Carpalx model can be found at http://mkweb.bcgsc.ca/carpalx/?full_optimization
+More about the Carpalx model and the QGMLWY layout can be found at http://mkweb.bcgsc.ca/carpalx/?full_optimization
 
 ## Table of Contents
 
