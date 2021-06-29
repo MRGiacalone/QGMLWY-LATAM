@@ -21,7 +21,7 @@ More about the Carpalx model and the QGMLWY layout can be found at http://mkweb.
 The QGMLWY from Carpalx is based on the ISO 105 English Keyboard Layout.
 ![QWERTY ENG 105](https://user-images.githubusercontent.com/7512698/121093148-00bf0180-c7c3-11eb-91ec-0a029b1db46b.png)
 
-### QWERTY Latin Amrican
+### QWERTY Latin American
 
 ![QWERTY LATAM 105](https://user-images.githubusercontent.com/7512698/121083500-e4689800-c7b5-11eb-8d82-ca6f851fbaa4.png)
 
