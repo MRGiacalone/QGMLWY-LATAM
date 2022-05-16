@@ -36,7 +36,12 @@ The QGMLWY from Carpalx is based on the ISO 105 English Keyboard Layout.
     
     2. Unzip and run thesetup executable from the qgmlwy directory (qgmlwy/setup.exe).
 
+### Alternatively
+
+Open the qgmlwy.klc using the Microsoft's Keyboard Layout Creator to view/edit/adapt the layout. The tool can be downloaded from Microsoft directly (https://www.microsoft.com/en-us/download/details.aspx?id=102134)
+
 ## Usage
+
 After intalling you need to enable the option to switch between keyboad layouts.
     
     On Windows 10
