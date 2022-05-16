@@ -15,7 +15,7 @@ Carpalx's fully optimized QGMLWY keyboard layout (with fixed ZXCV), addapted for
 
 More about the Carpalx model and the QGMLWY layout can be found at http://mkweb.bcgsc.ca/carpalx/?full_optimization
 
-## Adapted
+## Adaptation
 
 The ISO 105 Latin American Spanish Keyboard Layout adapted using the QGMLWY from Carpalx as follows.
 
