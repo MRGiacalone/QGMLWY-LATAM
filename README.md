@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Layout](#layout)
-- [Adapted](#adapted)
+- [Adaptation](#adaptation)
 - [Installing](#installing)
 - [Usage](#usage)
 
