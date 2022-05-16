@@ -38,7 +38,7 @@ The QGMLWY from Carpalx is based on the ISO 105 English Keyboard Layout.
 
 ### Alternatively
 
-Open the qgmlwy.klc using the Microsoft's Keyboard Layout Creator to view/edit/adapt the layout. The tool can be downloaded from Microsoft directly (https://www.microsoft.com/en-us/download/details.aspx?id=102134)
+Open the qgmlwy.klc file using the Microsoft's Keyboard Layout Creator to view/edit/adapt the layout. The tool can be downloaded from Microsoft directly (https://www.microsoft.com/en-us/download/details.aspx?id=102134)
 
 ## Usage
 
